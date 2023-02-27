@@ -1,0 +1,19 @@
+body{
+    background: url("background.jpg")
+}
+
+h1 {
+    color: white
+}
+
+.labels_for_login {
+    color: red;
+    font-style: italic;
+}
+
+.login_div {
+    background-color: white;
+    width: 30%;
+    height: 40%;
+    border-radius: 10px;
+}
